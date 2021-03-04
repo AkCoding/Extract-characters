@@ -1,0 +1,9 @@
+appdirs==1.4.4
+Brotli==1.0.9
+fonttools==4.21.1
+fs==2.4.12
+lxml==4.6.2
+pytz==2021.1
+six==1.15.0
+unicodedata2==13.0.0.post2
+zopfli==0.1.7
